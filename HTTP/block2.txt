@@ -1,0 +1,4 @@
+Proxy Server connected with 127.0.0.1with port no. 6666 
+Request made: www.yahoo.com
+Current Time 04/11/2023 11:26 am
+[RESPONSE]:Request to access www.yahoo.com denied 

@@ -1,0 +1,4 @@
+Client ip address is: orfdokrvw with port no.3333 
+Request made: www.yahoo.com
+Current Time 04/11/2023 11:25 am
+[RESPONSE]: Request to access www.yahoo.com denied 
